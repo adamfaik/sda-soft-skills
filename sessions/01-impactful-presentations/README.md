@@ -29,6 +29,13 @@ This session is a step-by-step guide from tools to storytelling, designed to giv
 
 ---
 
+### **✨ Quick Reference**
+
+* **[Access the session Cheat Sheet](./cheat-sheet.md)**
+* **[Get Feedback from the AI Presentation Clarity Coach](https://gemini.google.com/gem/1_q1o7mpix3EPjonn1TRoSQExFDcPKzMh?usp=sharing)**
+
+---
+
 ### **💬 How to ask questions**
 
 * **Please use the "[Issues](https://github.com/adamfaik/sorbonne-ds-workshops/issues)" tab** in this GitHub repository to ask questions.
