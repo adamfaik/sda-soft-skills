@@ -1,10 +1,10 @@
-# Conférences et Modèles : Les Maîtres de l'Éloquence
+# Conférences et modèles : Les maîtres de l'éloquence
 
 Ces conférences sont des exemples concrets et magistraux des principes de narration, de connexion et de structure que nous avons étudiés en session. Elles démontrent qu'il n'y a pas de formule unique, mais que l'application authentique des principes est la clé du succès.
 
 ---
 
-## 1. Modèles de Structure et d'Humour
+## 1. Modèles de structure et d'humour
 
 ### [Les écoles tuent-elles la créativité ?](https://youtu.be/iG9CE55wbtY?si=BTNKGw_NvNEDZpsf) par Sir Ken Robinson
 
@@ -25,7 +25,7 @@ Ces conférences sont des exemples concrets et magistraux des principes de narra
 
 ---
 
-## 2. Modèles de Connexion et d'Impact
+## 2. Modèles de connexion et d'impact
 
 ### [Le pouvoir de la vulnérabilité](https://youtu.be/X4Qm9cGRub0?si=AXuKpkfIbtKcI8D_) par Brené Brown
 
@@ -46,7 +46,7 @@ Ces conférences sont des exemples concrets et magistraux des principes de narra
 
 ---
 
-## 3. Nouveaux Modèles Pertinents
+## 3. Nouveaux modèles pertinents
 
 ### [Hans Rosling: Les meilleures statistiques que vous n'avez jamais vues](https://youtu.be/hVimVzgtD6w?si=uX7nK1e9G9Vl4oHj) par Hans Rosling
 

@@ -1,33 +1,33 @@
-# Boîte à Outils pour Présentations
+# Liens utiles pour présentations
 
 Voici une liste centralisée de tous les outils et ressources pour la création, le design et l'amélioration de vos présentations.
 
 ---
 
-## 1. Plateformes de Création
+## 1. Plateformes de création
 
 Outils principaux pour construire vos slides.
 
-* PowerPoint (Standard de l'industrie)
-* Google Slides (Standard de l'industrie)
-* [Gamma](https://gamma.app/) (Piloté par IA pour la rapidité)
-* [Beautiful.ai](https://www.beautiful.ai/) (Piloté par IA pour l'automatisation du design)
-* [Figma](https://www.figma.com/slides/) (Axé design, pour un contrôle visuel maximal)
-* [Miro](https://miro.com/capabilities/slides/) (Axé design et collaboration)
-* [Canva](https://www.canva.com/) (Axé design)
+* PowerPoint : Standard de l'industrie.
+* Google Slides : Standard de l'industrie.
+* [Gamma](https://gamma.app/) : Piloté par IA pour la rapidité.
+* [Beautiful.ai](https://www.beautiful.ai/) : Piloté par IA pour l'automatisation du design.
+* [Figma](https://www.figma.com/slides/) : Axé design, pour un contrôle visuel maximal.
+* [Miro](https://miro.com/capabilities/slides/) : Axé design et collaboration.
+* [Canva](https://www.canva.com/) : Axé design.
 
-## 2. Modèles et Inspiration
+## 2. Modèles et inspiration
 
 Pour trouver des idées de design et des templates prêts à l'emploi.
 
-* [Slidesgo.com](https://slidesgo.com/) (Templates professionnels)
-* [youexec.com](https://youexec.com/) (Templates professionnels)
-* [Slidebean](https://slidebean.com/pitch-deck-template) (Plus de 100 exemples de pitch decks de startups)
-* [Pinterest](https://pinterest.com) (Inspiration visuelle)
-* [Dribbble](https://dribbble.com) (Inspiration visuelle)
-* [Behance](https://www.behance.net) (Inspiration visuelle)
+* [Slidesgo.com](https://slidesgo.com/) : Templates professionnels.
+* [youexec.com](https://youexec.com/) : Templates professionnels.
+* [Slidebean](https://slidebean.com/pitch-deck-template) : Plus de 100 exemples de pitch decks de startups.
+* [Pinterest](https://pinterest.com) : Inspiration visuelle.
+* [Dribbble](https://dribbble.com) : Inspiration visuelle.
+* [Behance](https://www.behance.net) : Inspiration visuelle.
 
-## 3. Ressources Visuelles
+## 3. Ressources visuelles
 
 Pour enrichir vos slides avec des icônes, polices, photos, etc.
 
@@ -40,16 +40,16 @@ Pour enrichir vos slides avec des icônes, polices, photos, etc.
 ### Polices
 * [Google Fonts](https://fonts.google.com/)
 
-### Illustrations et Photos
+### Illustrations et photos
 * [Freepik](https://www.freepik.com/)
 * [Unsplash](https://unsplash.com/)
 * [Pexels](https://www.pexels.com/)
 
-### Captures d'Écran
+### Captures d'écran
 * [CleanShotX](https://cleanshot.com/) (Mac)
 * [ShareX](https://getsharex.com/) (Windows)
 
-## 4. Palettes de Couleurs
+## 4. Palettes de couleurs
 
 Pour choisir des schémas de couleurs harmonieux.
 
@@ -57,10 +57,10 @@ Pour choisir des schémas de couleurs harmonieux.
 * [Adobe Color](https://color.adobe.com/create/color-wheel)
 * [Coolors](https://coolors.co/)
 
-## 5. Diagrammes et Schémas
+## 5. Diagrammes et schémas
 
 Pour simplifier des idées complexes.
 
-* [Excalidraw](https://excalidraw.com/) (Collaboratif, style "dessiné à la main")
-* [Miro](https://miro.com/) (Collaboratif, pour les wireframes et diagrammes)
-* [draw.io](https://app.diagrams.net/) (Outil de diagramme technique, équivalent de Visio)
+* [Excalidraw](https://excalidraw.com/) : collaboratif, style "dessiné à la main".
+* [Miro](https://miro.com/) : Collaboratif, pour les wireframes et diagrammes.
+* [draw.io](https://app.diagrams.net/) : Outil de diagramme technique, équivalent de Visio.

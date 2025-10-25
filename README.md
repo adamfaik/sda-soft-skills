@@ -1,43 +1,67 @@
-# 🚀 From good to great: essential skills for the modern data scientist
+# 🚀 Du technique au stratégique
 
-Welcome! This repository contains the course materials for a series of workshops designed to complement your technical journey in the **[Diplôme Sorbonne Data Science](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/diplome-d-universite-DU/diplome-d-universite-KBVXM363/diplome-d-universite-sorbonne-data-analytics-KPMK3V7Z.html)**.
+**Les "soft skills" essentiels pour le data scientist**
 
-While your core curriculum provides a formidable foundation in technical areas like Python, SQL, Statistics, Machine Learning, MLOps, and Cloud technologies, these sessions focus on the transversal skills that elevate a good data scientist to a great one.
+Bienvenue !
 
-My goal is to equip you with a strategic mindset, enabling you to move beyond purely technical execution to solve business problems, drive strategy, and maximize your impact within any organization.
+Ce repo GitHub contient les supports de cours pour une série d'ateliers conçus pour compléter votre parcours technique au sein du **[Diplôme Sorbonne Data Analytics](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/diplome-d-universite-DU/diplome-d-universite-KBVXM363/diplome-d-universite-sorbonne-data-analytics-KPMK3V7Z.html)**.
 
-## 🏛️ The core philosophy: Beyond the model
+Votre cursus vous donne une base technique solide (Python, SQL, Stats, Machine Learning, MLOps, Cloud, etc.) Ce cours de soft skills sessions se concentrent sur les compétences transversales qui font la différence entre un bon data scientist et un excellent data scientist.
 
-A great data scientist doesn't just build models; they create value. They understand that technical excellence is the prerequisite, but true influence comes from deeply understanding business needs, communicating insights effectively, and ensuring their work leads to tangible outcomes.
+L'objectif est de vous aider à développer un état d'esprit stratégique pour aller au-delà de l'exécution technique, afin de mieux résoudre les problèmes business, comprendre la stratégie de l'entreprise et maximiser votre impact.
 
-This training is built on three core pillars designed to bridge the gap between technical execution and strategic impact.
+Nous aborderons 4 thèmes clés, toujours avec un focus sur les projets de data science, machine learning et IA : les présentations impactantes, l'IA au quotidien, la gestion de produit/projet data, et la recherche utilisateur.
 
-### 📢 Pillar 1: Strategic communication and influence
+## 🏛️ La philosophie : Au-delà du modèle
 
-Your analysis is only as valuable as your ability to communicate it. We will move beyond basic reporting to master the art of storytelling with data. The initial module on **creating impactful presentations** is just the entry point into a broader skill set.
+Un excellent data scientist ne fait pas que construire des modèles : il crée de la valeur. L'excellence technique est nécessaire, mais votre influence viendra de votre capacité à bien comprendre les besoins business, à communiquer clairement vos résultats et à vous assurer que votre travail a un impact concret.
 
-In these sessions, you will learn to:
-* Translate complex technical findings from your machine learning models into clear, actionable insights for non-technical stakeholders.
-* Structure compelling narratives that influence key business decisions.
-* Develop a deep understanding of your audience to tailor your message for maximum resonance and impact.
+## 📚 Les 4 sessions de formation
 
-### 🗺️ Pillar 2: Product and project management for data science
+Voici un aperçu des 4 sessions prévues, avec leur statut actuel :
 
-The most effective data scientists treat their projects as products. This means starting with the user and the business need, not just the dataset. This module will introduce you to a product-centric and structured approach for your work.
+---
 
-We will cover key concepts including:
-* **Business and strategy:** How to dissect a business problem and align your data science initiatives with overarching company goals.
-* **User-centricity:** The fundamentals of user research and how to build empathy to ensure you are solving a real-world problem.
-* **Agile for data science and project execution:** Learn to structure your projects using frameworks like CRISP-DM and adapt agile methodologies for the experimental nature of data science to ensure timely and valuable delivery.
+### 📢 Session 1 : Créer des présentations impactantes
+* **Statut :** ✅ Disponible
+* **Objectif :** Apprendre à communiquer vos résultats techniques (analyses, modèles ML/IA) de manière claire et convaincante à des publics variés (techniques ou non).
+* **Ce que nous avons vu :**
+    * Structurer une présentation (le processus avant l'outil).
+    * Adapter votre message à l'audience (prof vs. pro, cultures).
+    * Créer des slides claires et efficaces (1 idée/slide, visuels...).
+    * Utiliser l'IA (Gamma, Gemini) comme assistant.
 
-### 🌱 Pillar 3: Collaborative excellence and career growth
+---
 
-Your long-term success is linked to your ability to collaborate effectively and navigate your career path. This pillar focuses on mastering stakeholder interactions and strategically positioning yourself for growth.
+### 🤖 Session 2 : L'IA (LLMs) au quotidien du data scientist
+* **Statut :** 🚧 En construction
+* **Objectif :** Maîtriser l'utilisation des IA génératives (comme Gemini, ChatGPT, Copilot) pour booster votre productivité et la qualité de votre travail au quotidien sur des projets data.
+* **Ce que nous aborderons (prévision) :**
+    * Accélérer le codage (Python, SQL...) et le débogage.
+    * Générer de la documentation technique (ex: `README.md`, commentaires de code).
+    * Rédiger des communications professionnelles (emails, synthèses...).
+    * Utiliser l'IA pour préparer votre recherche d'emploi (portfolio, CV, préparation aux entretiens).
 
-This section will explore:
-* **Data science consulting and stakeholder management:** Go beyond just being a technical expert to become a strategic partner. Learn to frame ambiguous requests, manage stakeholder expectations, and guide the conversation to drive impactful outcomes.
-* **Enhanced productivity and career navigation with LLMs:**
-    * Leverage Large Language Models (LLMs) to augment your daily workflow—from accelerating coding to drafting communications.
-    * Apply these tools to your career development by learning how to build a compelling professional brand, create a standout portfolio that showcases business impact, and prepare for the modern data science interview.
+---
 
-This repository will be your central resource for all slides, notes, and supplementary materials for these sessions.
+### 🗺️ Session 3 : Gestion de produit et projet pour la data science
+* **Statut :** 🚧 En construction
+* **Objectif :** Adopter une approche structurée et orientée produit pour vos projets data (ML, IA), depuis la compréhension du besoin jusqu'à la livraison de valeur.
+* **Ce que nous aborderons (prévision) :**
+    * Comprendre la stratégie business et aligner vos projets data.
+    * Les bases de la gestion de projet Agile adaptée à la Data Science (ex: CRISP-DM simplifié).
+    * Comment bien cadrer un projet et gérer les attentes des parties prenantes (stakeholders).
+
+---
+
+### 🌱 Session 4 : Les bases de la recherche Utilisateur pour data scientists
+* **Statut :** 🚧 En construction
+* **Objectif :** Comprendre pourquoi et comment intégrer la perspective des utilisateurs finaux dans vos projets data (même techniques) pour vous assurer que vous résolvez un vrai problème et que votre solution sera adoptée.
+* **Ce que nous aborderons (prévision) :**
+    * Pourquoi la recherche utilisateur est cruciale, même pour des modèles ML/IA.
+    * Méthodes simples pour recueillir des besoins et des retours (interviews, questionnaires...).
+    * Comment traduire ces retours en spécifications utiles pour vos projets techniques.
+
+---
+
+Ce repo GitHub sera votre ressource centrale pour tous les supports de cours (slides, notes, aide-mémoires...) de ces sessions au fur et à mesure de leur création.

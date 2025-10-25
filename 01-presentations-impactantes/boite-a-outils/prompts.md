@@ -1,4 +1,4 @@
-# Prompts pour LLM : Créer vos Présentations de Projet
+# Prompts pour créer vos présentations de projet
 
 Ce guide rassemble des prompts-clés à utiliser avec des outils comme Gemini pour vous assister à chaque étape de la création de votre présentation, de la page blanche au feedback final.
 
@@ -16,15 +16,15 @@ Ce guide rassemble des prompts-clés à utiliser avec des outils comme Gemini po
 
 > "Voici la transcription brute de mes pensées sur mon projet [d'analyse de sentiments]. Nettoie ce texte, corrige les fautes, supprime les hésitations et organise-le en un narratif cohérent qui explique le projet du début à la fin."
 
-### Pour extraire d'un document technique (ex: README)
+### Pour extraire d'un document technique (ex: `README.md`)
 
-> "Analyse ce document (ex: README.md ou notebook Python) et extrais-en un résumé narratif de 300 mots qui explique le projet à un public non-technique.
+> "Analyse ce document (ex: `README.md` ou notebook Python) et extrais-en un résumé narratif de 300 mots qui explique le projet à un public non-technique.
 > 
-> [Coller le contenu du README ou du Notebook]"
+> [Coller le contenu du `README.md` ou du Notebook]"
 
 ---
 
-## Étape 2 : Structuration et Plan
+## Étape 2 : Structuration et plan
 
 *Transformer votre narratif en un squelette de présentation.*
 
@@ -43,20 +43,20 @@ Ce guide rassemble des prompts-clés à utiliser avec des outils comme Gemini po
 
 > "Je dois créer une présentation de 15 minutes (environ 10 slides) à partir de ce document. Propose-moi un plan de présentation (un agenda) logique.
 > 
-> [Coller le narratif ou le README]"
+> [Coller le narratif ou le `README.md`]"
 
 ### Pour adapter le plan à l'audience
 
 > "Je dois présenter mon projet [de pipeline MLOps] à différents auditoires.
 > 
 > Génère 3 plans de présentation (agendas) distincts pour :
-> 1.  **Mon professeur (Soutenance SDA) :** L'audience est technique et note la rigueur, l'utilisation de [MLflow, AWS, CI/CD] et la méthodologie.
+> 1.  **Mon professeur (soutenance SDA) :** L'audience est technique et note la rigueur, l'utilisation de [MLflow, AWS, CI/CD] et la méthodologie.
 > 2.  **Un CEO (Public Business) :** L'audience se soucie du ROI, du coût, de la valeur business et de l'impact sur les utilisateurs.
-> 3.  **Une équipe de Data Scientists (Public Expert) :** L'audience s'intéresse aux choix techniques, à l'architecture du modèle, aux hyperparamètres et aux métriques de performance."
+> 3.  **Une équipe de data scientists (public expert) :** L'audience s'intéresse aux choix techniques, à l'architecture du modèle, aux hyperparamètres et aux métriques de performance."
 
 ---
 
-## Étape 3 : Création de Contenu (Slide par Slide)
+## Étape 3 : Création de contenu (slide par slide)
 
 *Rédiger le contenu de chaque slide.*
 
@@ -68,11 +68,11 @@ Ce guide rassemble des prompts-clés à utiliser avec des outils comme Gemini po
 > * Utilise 3 points clés maximum.
 > * Reste concis et évite le jargon."
 
-### Pour simplifier un concept technique (Vulgarisation)
+### Pour simplifier un concept technique (vulgarisation)
 
 > "Explique-moi ce qu'est [un Random Forest / un pipeline CI/CD / le data leakage] avec une analogie simple et visuelle qu'un public non-technique (manager, client) peut comprendre."
 
-### Pour trouver un titre de slide percutant (Structure "Z")
+### Pour trouver un titre de slide percutant (structure "Z")
 
 > "Voici le contenu de ma slide :
 > 
@@ -82,7 +82,7 @@ Ce guide rassemble des prompts-clés à utiliser avec des outils comme Gemini po
 > 
 > Propose-moi 5 options de titres percutants pour cette slide, qui suivent la règle de 'la conclusion d'abord' (comme 'Notre modèle a atteint 93% de précision')."
 
-### Pour décrire un visuel (Diagramme/Schéma)
+### Pour décrire un visuel (diagramme/schéma)
 
 > "Je dois présenter l'architecture de mon pipeline de données : [Ingestion depuis Kafka -> Traitement avec Spark -> Stockage sur S3 -> Entraînement du modèle sur SageMaker].
 > 
@@ -91,7 +91,7 @@ Ce guide rassemble des prompts-clés à utiliser avec des outils comme Gemini po
 
 ---
 
-## Étape 4 : Feedback et Amélioration
+## Étape 4 : Feedback et amélioration
 
 *Utiliser l'IA comme un coach pour critiquer votre travail.*
 
@@ -107,7 +107,7 @@ Ce guide rassemble des prompts-clés à utiliser avec des outils comme Gemini po
 > 
 > [Coller le texte de la slide, ex: 'Nous avons implémenté une architecture RAG avec un embedding bi-directionnel pour optimiser la retrieval des documents...']"
 
-### Pour vérifier la cohérence du "Message" (TOM)
+### Pour vérifier la cohérence du "message" (TOM)
 
 > "Voici l'intégralité de ma présentation (texte slide par slide). Mon **Message principal (M)** est : [Coller votre message, ex: 'Ce projet prouve que l'IA peut réduire nos coûts de support de 30%'].
 > 
@@ -117,7 +117,7 @@ Ce guide rassemble des prompts-clés à utiliser avec des outils comme Gemini po
 
 ---
 
-## Étape 5 : Préparation à l'Oral
+## Étape 5 : Préparation à l'oral
 
 *Finaliser les slides et se préparer à parler.*
 
