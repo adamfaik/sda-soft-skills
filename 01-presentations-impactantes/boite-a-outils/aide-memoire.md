@@ -2,8 +2,7 @@
 
 Visionnez cette vidéo récapitulative pour un aperçu rapide des points clés :
 
-[![Checklist présentation data science](https://img.youtube.com/vi/k4HvK-JDzf4/0.jpg)](https://youtu.be/k4HvK-JDzf4)
-*(Cliquez sur l'image pour lancer la vidéo)*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k4HvK-JDzf4?si=VOTRE_CODE_UNIQUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Ceci est un aide-mémoire des concepts clés de cette session. Utilisez-le comme une checklist avant de finaliser vos présentations.
 
