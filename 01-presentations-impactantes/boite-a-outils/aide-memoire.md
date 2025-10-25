@@ -1,10 +1,8 @@
 # Aide-mémoire : Bonnes pratiques de présentation
 
-Visionnez cette vidéo récapitulative pour un aperçu rapide des points clés :
+Ceci est un aide-mémoire des concepts clés de cette session. Utilisez-le comme une checklist avant de finaliser vos présentations.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k4HvK-JDzf4?si=VOTRE_CODE_UNIQUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-Ceci est un aide-mémoire des concepts clés de cette session. Utilisez-le comme une checklist avant de finaliser vos présentations.
 
 ---
 
