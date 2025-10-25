@@ -58,7 +58,7 @@ Retrouvez ici les notes et points clés abordés lors des sessions :
 
 ## 🧑‍🏫 Pour le formateur
 
-* **Notes détaillées et déroulé :** [`guide-formateur.md`](./guide-formateur.md) (Ce fichier contient le timing précis, les animations, les points d'attention spécifiques pour l'instructeur).
+* **Notes détaillées et déroulé :** [`guide-formateur.md`](./kit-formateur/guide-formateur.md) (Ce fichier contient le timing précis, les animations, les points d'attention spécifiques pour l'instructeur).
 
 ---
 
