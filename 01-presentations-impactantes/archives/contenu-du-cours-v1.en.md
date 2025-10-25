@@ -19,26 +19,26 @@
 
 This session is a step-by-step guide from tools to storytelling, designed to give you a complete workflow for building presentations.
 
-* [**Module 1:** The modern presenter's toolkit](https://github.com/adamfaik/sorbonne-ds-workshops/tree/main/sessions/01-impactful-presentations#module-1--the-modern-presenters-toolkit-15-mins)
-* [**Module 2:** The anatomy of a great slide](https://github.com/adamfaik/sorbonne-ds-workshops/tree/main/sessions/01-impactful-presentations#module-1--the-modern-presenters-toolkit-15-mins)
-* [**Module 3:** The art of storytelling and audience adaptation](https://github.com/adamfaik/sorbonne-ds-workshops/tree/main/sessions/01-impactful-presentations#module-1--the-modern-presenters-toolkit-15-mins)
-* [**Module 4:** The process: From chaos to clarity](https://github.com/adamfaik/sorbonne-ds-workshops/tree/main/sessions/01-impactful-presentations#module-1--the-modern-presenters-toolkit-15-mins)
-* [**Module 5:** Your AI co-pilot: using LLMs](https://github.com/adamfaik/sorbonne-ds-workshops/tree/main/sessions/01-impactful-presentations#module-1--the-modern-presenters-toolkit-15-mins)
-* [**Module 6:** Your task, delivery and wrap-up](https://github.com/adamfaik/sorbonne-ds-workshops/tree/main/sessions/01-impactful-presentations#module-1--the-modern-presenters-toolkit-15-mins)
-* [**Module 7:** Resources and further learning](https://github.com/adamfaik/sorbonne-ds-workshops/tree/main/sessions/01-impactful-presentations#module-7--resources-and-further-learning)
+* **Module 1:** The modern presenter's toolkit
+* **Module 2:** The anatomy of a great slide
+* **Module 3:** The art of storytelling and audience adaptation
+* **Module 4:** The process: From chaos to clarity
+* **Module 5:** Your AI co-pilot: using LLMs
+* **Module 6:** Your task, delivery and wrap-up
+* **Module 7:** Resources and further learning
 
 ---
 
 ### **✨ Quick Reference**
 
-* **[Access the session Cheat Sheet](./cheat-sheet.md)**
-* **[Get Feedback from the AI Presentation Clarity Coach](https://gemini.google.com/gem/1_q1o7mpix3EPjonn1TRoSQExFDcPKzMh?usp=sharing)**
+* **Access the session Cheat Sheet**
+* **Get Feedback from the AI Presentation Clarity Coach**
 
 ---
 
 ### **💬 How to ask questions**
 
-* **Please use the "[Issues](https://github.com/adamfaik/sorbonne-ds-workshops/issues)" tab** in this GitHub repository to ask questions.
+* **Please use the "Issues" tab** in this GitHub repository to ask questions.
 * This creates a searchable FAQ that benefits everyone.
 * Click **"New Issue,"** write a clear title, and submit your question.
 

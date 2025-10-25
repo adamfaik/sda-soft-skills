@@ -67,7 +67,3 @@
 * "Le processus clé : Pensez d'abord (Narratif -> TOM -> Plan), puis mettez en forme (Slides)."
 * "L'oral (dictée) est un outil puissant pour clarifier sa pensée initiale."
 * "La présentation en ligne demande une attention spécifique à l'image et à la connexion virtuelle."
-
-**✨ Variations / Conseils (optionnel) :**
-* "Si le temps est vraiment critique, la démo du narratif oral peut être juste décrite sans partage d'écran."
-* "Reporter la session de Q&A à la toute fin du cours pour ne pas dépasser les 15 minutes."

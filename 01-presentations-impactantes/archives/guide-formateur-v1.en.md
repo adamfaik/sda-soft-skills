@@ -1,4 +1,4 @@
-# Trainer's guide: Session 1 - Impactful presentations (live build)
+# Trainer's guide session 1
 
 **Session goal:** Equip data scientists with a practical toolkit, process, and mindset for creating effective presentations by demonstrating the principles live.
 

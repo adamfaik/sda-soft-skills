@@ -49,7 +49,3 @@
 **💡 Point(s) clés à retenir / Débrief :**
 * "Verbaliser ses apprentissages aide à les mémoriser."
 * "Les messages clés de cette session sont : Audience, Processus, Clarté, Discernement."
-
-**✨ Variations / Conseils (optionnel) :**
-* "Au lieu d'un tour de table, demander aux participants d'écrire leur 'takeaway' dans le chat. Le formateur fait ensuite une synthèse orale en lisant les points clés."
-* "Transformer la question en : 'Quelle est LA chose que vous allez essayer d'appliquer dès votre prochaine présentation ?'"

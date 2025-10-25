@@ -20,16 +20,19 @@ Voici les différents ateliers que nous allons parcourir ensemble :
 4.  **[Atelier 4 : Analyse critique de slides](./04-critique.md)** (15 min)
     * *Description :* Développement du regard critique en analysant collectivement des exemples de slides (bonnes et mauvaises). Identification des points forts et faibles via une discussion guidée et une collecte sur FigJam pour renforcer les bonnes pratiques.
 
-5.  **[Atelier 5 : Structure narrative et adaptation à l'audience](./05-structure.md)** (15 min)
+5.  **Pause et questions ouvertes** (15 min)
+    * *Description :* Une courte pause, suivie d'un temps dédié aux questions générales sur les sujets abordés jusqu'à présent ou sur des problématiques spécifiques rencontrées par les participants.
+
+6.  **[Atelier 5 : Structure narrative et adaptation à l'audience](./05-structure.md)** (15 min)
     * *Description :* Exploration de l'importance du storytelling et des structures narratives simples (Problème/Solution, Voyage du Héros). Discussion sur l'adaptation cruciale du plan et du discours à l'audience (Prof vs. Pro) et aux contextes culturels (France vs. Anglo-Saxon).
 
-6.  **[Atelier 6 : Le processus - penser avant de slider (et présenter en ligne)](./06-process.md)** (15 min)
+7.  **[Atelier 6 : Le processus - penser avant de slider (et présenter en ligne)](./06-process.md)** (15 min)
     * *Description :* Présentation descendante du processus de création : pourquoi ne pas commencer par les slides, l'étape du narratif oral (avec exemple), la distillation du TOM, et la construction du plan. Intégration des bonnes pratiques pour la présentation en ligne.
 
-7.  **[Atelier 7 : Utiliser l'IA (Gemini) comme co-pilote pour vos présentations](./07-gemini.md)** (20 min)
+8.  **[Atelier 7 : Utiliser l'IA (Gemini) comme co-pilote pour vos présentations](./07-gemini.md)** (20 min)
     * *Description :* Atelier pratique où les participants testent des prompts spécifiques dans Gemini pour assister les différentes étapes (plan, simplification, feedback critique). Le formateur guide et partage les prompts via le chat.
 
-8.  **[Atelier 8 : Synthèse et points clés de la session](./08-conclusion.md)** (10 min)
+9.  **[Atelier 8 : Synthèse et points clés de la session](./08-conclusion.md)** (10 min)
     * *Description :* Clôture de la session. Tour de table pour recueillir les principaux apprentissages des participants (collectés sur FigJam). Le formateur renforce les 3-4 messages fondamentaux de la session (Audience, Processus, Clarté, Discernement IA).
 
 ---

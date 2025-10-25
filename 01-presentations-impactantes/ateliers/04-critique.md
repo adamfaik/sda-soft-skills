@@ -16,7 +16,7 @@
         * Une slide visuellement surchargée ou illisible (mauvaises couleurs, police trop petite).
         * Une slide avec un message peu clair ou un titre non impactant.
     * **Board FigJam préparé** (voir section Préparation).
-    * (Optionnel) Lien vers le board FigJam à partager en lecture seule.
+    * Lien vers le board FigJam à partager en lecture seule.
 * **Participants :** Aucun matériel spécifique requis, juste leur attention et leur esprit critique.
 
 **⚙️ Préparation (avant l'atelier) :**
@@ -62,8 +62,3 @@
 **💡 Points clés à retenir / Débrief :**
 * "L'analyse critique d'exemples est le meilleur moyen d'internaliser les bonnes pratiques de conception de slides."
 * "Les principes d'une slide efficace sont souvent basés sur la clarté, la simplicité et le respect de l'attention de l'audience."
-
-**✨ Variations / Conseils (optionnel) :**
-* "Utiliser des exemples de présentations précédentes des étudiants (anonymisées) pour un impact plus direct."
-* "Après l'analyse, demander aux participants de proposer une version améliorée d'une mauvaise slide (oralement ou en exercice)."
-* "Si le temps le permet, inclure un exemple de diagramme (bon vs mauvais) ou de visualisation de données."

@@ -12,7 +12,7 @@
 **🛠️ Matériel requis :**
 * **Formateur :**
     * Board FigJam préparé (voir section Préparation).
-    * (Optionnel) Slides de support pour introduire les concepts :
+    * Slides de support pour introduire les concepts :
         * Schéma simple problème/solution.
         * Schéma simplifié du voyage du héros.
         * Tableau comparatif simplifié : Attentes prof vs. attentes pro.
@@ -67,7 +67,3 @@
 * "Le storytelling structure votre pensée et engage votre audience."
 * "Adaptez systématiquement votre plan et votre message à votre public (rôle, culture, attentes)."
 * "Posez des questions pour comprendre les attentes spécifiques (surtout pour les soutenances)."
-
-**✨ Variations / Conseils (optionnel) :**
-* "Si le temps le permet, prendre un exemple simple (ex: présenter un nouveau modèle ML) et demander aux participants 'Comment commenceriez-vous pour un prof SDA ?' vs 'Comment commenceriez-vous pour un CEO américain ?'"
-* "Partager le lien vers le document `culture-map.md` à la fin de cet atelier."

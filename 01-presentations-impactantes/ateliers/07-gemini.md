@@ -62,8 +62,3 @@
 * "Gemini peut être un assistant précieux à chaque étape (Plan, Contenu, Feedback) si on utilise des prompts précis."
 * "La qualité du résultat dépend de la qualité de votre instruction (le prompt)."
 * "L'IA ne remplace pas votre jugement critique et votre expertise."
-
-**✨ Variations / Conseils (optionnel) :**
-* "Si les participants n'ont pas accès à Gemini, faire l'atelier en mode démonstration uniquement, en montrant plus de prompts."
-* "Préparer un Google Doc partagé où les participants peuvent coller les résultats 'surprenants' ou 'utiles' qu'ils obtiennent pendant l'atelier."
-* "Si le temps manque, se concentrer sur seulement 2 prompts clés (ex: Plan + Feedback Critique)."

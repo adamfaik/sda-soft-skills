@@ -39,7 +39,7 @@
         * Le **titre** clair de votre projet (ex: 'Classification d'Images Deep Learning').
         * Vos **noms et prénoms** (important pour le prof).
         * La **date** de la soutenance.
-        * (Optionnel mais recommandé) Le nom du professeur/cours/DU (SDA)."
+        * Le nom du cours/DU (SDA)."
     * *Le formateur remplit sa slide Titre.*
 
 4.  **[6 min] Slide 2 : L'agenda et l'adaptation à l'audience (formateur + discussion) :**
@@ -87,7 +87,3 @@
 * "Screenshots : Focus (encadré rouge) + explication."
 * "Diagrammes : Fait main (photo) c'est très bien ! Sinon Draw.io."
 * "Préparez des backups (vidéo) et des annexes."
-
-**✨ Variations / Conseils (optionnel) :**
-* "Pour remplir le *contenu* des slides que nous venons de créer, vous vous baserez sur votre travail réel (le notebook Kaggle, vos scripts, etc.) en suivant le processus 'Narratif > TOM > Plan'."
-* "Cet atelier se concentre sur Google Slides pour sa simplicité. Les mêmes principes s'appliquent à PowerPoint, Figma, etc."

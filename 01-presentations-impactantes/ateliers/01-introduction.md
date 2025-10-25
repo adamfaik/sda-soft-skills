@@ -44,7 +44,7 @@
 2.  **[1 min] Présentation du board FigJam (par le formateur) :**
     * Expliquer que tu vas utiliser un board FigJam pour collecter les idées de chacun.
     * Présenter rapidement les 4 colonnes et les questions associées.
-    * (Optionnel) Partager le lien en lecture seule si tu veux qu'ils suivent la collecte en direct.
+    * Partager le lien en lecture seule si tu veux qu'ils suivent la collecte en direct.
 
 3.  **[7-10 min] Tour de table et collecte sur FigJam (formateur et participants) :**
     * **Le formateur mène un tour de table oral** en posant les questions des 4 colonnes aux participants (soit en ciblant quelques personnes, soit en demandant des volontaires).
@@ -70,7 +70,3 @@
 * "La communication efficace de vos projets data/ML est une compétence aussi essentielle que la technique elle-même."
 * "Les attentes varient radicalement selon votre audience (prof vs. pro) ; nous apprendrons à nous adapter."
 * "Ce cours est conçu pour répondre aux défis et attentes que VOUS venez d'exprimer."
-
-**✨ Variations / conseils (optionnel) :**
-* "Si le temps manque, se concentrer uniquement sur les colonnes 'attentes' et 'défis'."
-* "Si le groupe est très grand, poser les questions à l'ensemble du groupe et noter les 3-4 réponses les plus fréquentes pour chaque colonne."
