@@ -45,20 +45,20 @@ Explorez ces ressources pour approfondir certains aspects théoriques ou trouver
 * [`ted-guide.md`](./ressources/ted-guide.md) : Les secrets des présentations TED.
 * [`ted-talks.md`](./ressources/ted-talks.md) : Sélection de conférences TED inspirantes sur la communication et la data.
 * [`art-oratoire.md`](./ressources/art-oratoire.md) : Quelques bases d'art oratoire.
-* [`rhetorique.md`](./ressources/rhetorique.md) : Principes fondamentaux de rhétorique (Ethos, Pathos, Logos).
+* [`rhetorique.md`](./ressources/rhetorique.md) : Principes d'écriture et de rhétorique.
 
-### 📝 Comptes Rendus des Sessions
+### 📝 Comptes rendus des sessions
 
-Retrouvez ici les notes et points clés abordés lors de nos sessions :
+Retrouvez ici les notes et points clés abordés lors des sessions :
 
 * [`compte-rendu-sda7-22-10-2025.md`](./comptes-rendus/compte-rendu-sda7-22-10-2025.md) : Notes de la session du 22 Octobre 2025 (SDA7).
 * *(D'autres comptes rendus seront ajoutés ici après chaque session)*.
 
 ---
 
-## 🧑‍🏫 Pour le Formateur
+## 🧑‍🏫 Pour le formateur
 
-* **Notes Détaillées et Déroulé :** [`notes-formateur-s1.md`](./notes-formateur-s1.md) [*à créer*] (Ce fichier contiendra le timing précis, les animations, les points d'attention spécifiques pour l'instructeur).
+* **Notes détaillées et déroulé :** [`guide-formateur.md`](./guide-formateur.md) (Ce fichier contient le timing précis, les animations, les points d'attention spécifiques pour l'instructeur).
 
 ---
 
