@@ -30,7 +30,7 @@ Une fois que vous avez votre texte brut (étape 1), analysez-le pour trouver vot
 
 Ce **Message (M)** devient votre "fil rouge". Chaque slide de votre présentation devra, d'une manière ou d'une autre, soutenir ce message.
 
-## Étape 3 : Le plan (adapté à l'audience)
+## Étape 3 : Le plan (Adapté à l'audience)
 
 *Le but : Structurer votre histoire pour la personne qui vous écoute.*
 

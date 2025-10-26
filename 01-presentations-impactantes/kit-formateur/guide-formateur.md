@@ -5,7 +5,8 @@ Ce guide est destiné au formateur animant la session sur la création de prése
 **Références principales :**
 * Le déroulement détaillé et les ressources pour les étudiants : [`README.md`](../README.md)
 * Le plan détaillé des ateliers : [`00-plan.md`](../ateliers/00-plan.md)
-* La présentation HTML utilisée : [Lien vers la Présentation](https://adamfaik.github.io/sda-soft-skills/01-presentations-impactantes/kit-formateur/presentation.html)
+* Le manuel PDF détaillé pour l'animation : [Lien vers le manuel du formateur](./manuel-formateur.pdf)
+* La présentation HTML utilisée : [Lien vers la présentation](./presentation.html)
 * Le board FigJam central : [Lien FigJam](https://www.figma.com/files/team/1317740158124985018/project/177408865/SDA-Soft-Skills?fuid=813352479247632111)
 
 ---

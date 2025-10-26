@@ -12,7 +12,7 @@ L'objectif est de vous aider à développer un état d'esprit stratégique pour 
 
 Nous aborderons 4 thèmes clés, toujours avec un focus sur les projets de data science, machine learning et IA : les présentations impactantes, l'IA au quotidien, la gestion de produit/projet data, et la recherche utilisateur.
 
-## 🏛️ La philosophie : Au-delà du modèle
+## 🏛️ Le principe : Au-delà du modèle
 
 Un excellent data scientist ne fait pas que construire des modèles : il crée de la valeur. L'excellence technique est nécessaire, mais votre influence viendra de votre capacité à bien comprendre les besoins business, à communiquer clairement vos résultats et à vous assurer que votre travail a un impact concret.
 
@@ -22,7 +22,7 @@ Voici un aperçu des 4 sessions prévues, avec leur statut actuel :
 
 ---
 
-### 📢 Session 1 : Créer des présentations impactantes
+### (📢 Session 1 : Créer des présentations impactantes)[./01-presentations-impactantes/README.md)]
 * **Statut :** ✅ Disponible
 * **Objectif :** Apprendre à communiquer vos résultats techniques (analyses, modèles ML/IA) de manière claire et convaincante à des publics variés (techniques ou non).
 * **Ce que nous avons vu :**
@@ -33,7 +33,7 @@ Voici un aperçu des 4 sessions prévues, avec leur statut actuel :
 
 ---
 
-### 🤖 Session 2 : L'IA (LLMs) au quotidien du data scientist
+### 🤖 Session 2 : L'IA (LLMs) au quotidien
 * **Statut :** 🚧 En construction
 * **Objectif :** Maîtriser l'utilisation des IA génératives (comme Gemini, ChatGPT, Copilot) pour booster votre productivité et la qualité de votre travail au quotidien sur des projets data.
 * **Ce que nous aborderons (prévision) :**
@@ -44,7 +44,7 @@ Voici un aperçu des 4 sessions prévues, avec leur statut actuel :
 
 ---
 
-### 🗺️ Session 3 : Gestion de produit et projet pour la data science
+### 🗺️ Session 3 : Gestion de produit et projet
 * **Statut :** 🚧 En construction
 * **Objectif :** Adopter une approche structurée et orientée produit pour vos projets data (ML, IA), depuis la compréhension du besoin jusqu'à la livraison de valeur.
 * **Ce que nous aborderons (prévision) :**
@@ -54,7 +54,7 @@ Voici un aperçu des 4 sessions prévues, avec leur statut actuel :
 
 ---
 
-### 🌱 Session 4 : Les bases de la recherche Utilisateur pour data scientists
+### 🌱 Session 4 : Les bases de la recherche utilisateur
 * **Statut :** 🚧 En construction
 * **Objectif :** Comprendre pourquoi et comment intégrer la perspective des utilisateurs finaux dans vos projets data (même techniques) pour vous assurer que vous résolvez un vrai problème et que votre solution sera adoptée.
 * **Ce que nous aborderons (prévision) :**

@@ -27,7 +27,7 @@ Le plan typique doit répondre aux questions : Quel est le problème ? Comment l
 | **S2** | **"Le pitch" / Problème business** | Accrocher immédiatement le jury. Énoncer la douleur. | **Le problème** (sous forme d'un fait marquant, un chiffre). La perte de temps/d'argent actuelle. Le **fil conducteur** du projet. |
 | **S3** | **Solution et objectifs (TOM)** | Présenter la vision et le livrable. | **L'objectif métier** (Comment le projet résout le problème). **L'objectif technique** (Ce que vous avez réussi à faire/produire : un API, un dashboard, un modèle en production). |
 
-### B. Phase de démarche (data et technique : 5-6 Slides)
+### B. Phase de démarche (Data et technique : 5-6 Slides)
 
 C'est là que vous construisez votre crédibilité technique.
 
@@ -35,8 +35,8 @@ C'est là que vous construisez votre crédibilité technique.
 | :--- | :--- | :--- | :--- |
 | **S4** | **Intercalaire "notre approche"** | Marquer une transition claire vers le "comment". | Titre de section simple. |
 | **S5** | **Data (acquisition et exploration)** | Montrer la gestion des données (le vrai travail). | **Source(s)** de la Data. **Taille** du jeu de données. **Défis** (Valeurs manquantes, Biais, etc.). **EDA** : Un graphique clé qui illustre une variable ou une corrélation importante. |
-| **S6** | **Méthodologie & Prétraitement** | Justifier votre préparation de la donnée pour le modèle. | Schéma du flux de *feature engineering* (nettoyage, normalisation, encodage, split Train/Test). Ne pas lister tout le code, mais les **choix critiques**. |
-| **S7** | **Architecture & Technologie** | Démontrer votre expertise technologique (Cloud/DevOps). | Schéma de l'architecture (une vue d'ensemble). Indiquer clairement les technos utilisées : **Cloud (AWS/GCP/Azure)**, **Modèle ML choisi** (Random Forest, BERT, etc.). Justification du choix. |
+| **S6** | **Méthodologie & prétraitement** | Justifier votre préparation de la donnée pour le modèle. | Schéma du flux de *feature engineering* (nettoyage, normalisation, encodage, split Train/Test). Ne pas lister tout le code, mais les **choix critiques**. |
+| **S7** | **Architecture & technologie** | Démontrer votre expertise technologique (Cloud/DevOps). | Schéma de l'architecture (une vue d'ensemble). Indiquer clairement les technos utilisées : **Cloud (AWS/GCP/Azure)**, **Modèle ML choisi** (Random Forest, BERT, etc.). Justification du choix. |
 | **S8** | **Itération du modèle (ML)** | Montrer que vous avez exploré plusieurs pistes. | **Comparaison** de 2 ou 3 modèles testés (ex: Modèle A vs. Modèle B vs. votre Solution finale). Pourquoi votre solution finale l'a emporté. |
 
 ### C. Phase de validation (Preuve de concept : 3 slides)

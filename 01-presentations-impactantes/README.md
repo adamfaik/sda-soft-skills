@@ -1,4 +1,4 @@
-# Session 1 : Créer des présentations impactantes 📢
+# 📢 Session 1 : Créer des présentations impactantes
 
 Bienvenue dans cette première session du parcours soft skills ! L'objectif principal est simple : vous donner les clés pour **transformer vos projets techniques** (data science, machine learning, IA) **en présentations claires, convaincantes et adaptées à votre public**.
 
@@ -8,7 +8,7 @@ Trop souvent, un travail technique exceptionnel perd de son impact faute d'une c
 
 ## 🎯 Objectifs de la session
 
-* Comprendre pourquoi la communication est aussi cruciale que la technique pour un data scientist.
+* Comprendre pourquoi **la communication est aussi cruciale que la technique** pour un data scientist.
 * Apprendre un **processus structuré** pour passer de l'idée à la présentation.
 * Maîtriser les **bonnes pratiques** pour des slides claires et percutantes (même techniques).
 * Savoir **adapter son message** à différentes audiences (académique vs. pro, cultures).
@@ -18,47 +18,51 @@ Trop souvent, un travail technique exceptionnel perd de son impact faute d'une c
 
 ## 📚 Ressources pour les étudiants
 
-Ce dépôt est votre point central. Voici les ressources à votre disposition pour cette session :
+Cette page est votre point central. Voici les ressources à votre disposition pour cette session :
 
-### ➡️ Accès direct
+### ➡️ Accès aux ressources du cours
 
-* **Présentation :** [*Lien vers presentation.html - à venir*] (Le support visuel utilisé pendant le cours).
+* La présentation HTML de la session : [Lien vers la présentation](./kit-formateur/presentation.html)
+* **Playlist YouTube :** [Visionner les vidéos du cours](https://www.youtube.com/playlist?list=PLAO2ui_9t-UQiTCLs2yiQO2m9_oq-ItWQ) (chaque vidéo contient des liens vers les ressources spécifiques abordées).
 
-### 🛠️ Boîte à outils (guides pratiques)
-
-Ces fiches contiennent des checklists, plans types et méthodes directement applicables :
-
-* [`aide-memoire.md`](./boite-a-outils/aide-memoire.md) : **LA checklist** des bonnes pratiques à garder sous la main.
-* [`plan-type.md`](./boite-a-outils/plan-type.md) : Suggestion de plan détaillé pour une soutenance de projet SDA.
-* [`processus.md`](./boite-a-outils/processus.md) : Le workflow de création étape par étape (Narratif -> TOM -> Plan -> Slides).
-* [`prompts.md`](./boite-a-outils/prompts.md) : Exemples de prompts pour utiliser Gemini/IA à chaque étape.
-* [`liens-utiles.md`](./boite-a-outils/liens-utiles.md) : Recueil d'outils, ressources visuelles et inspirations.
-
-### 🧠 Pour aller plus loin (concepts et inspirations)
-
-Explorez ces ressources pour approfondir certains aspects théoriques ou trouver de l'inspiration :
-
-* [`culture-map.md`](./ressources/culture-map.md) : Guide détaillé sur l'adaptation culturelle (France vs. Anglo-Saxon) basé sur *The Culture Map*.
-* [`pitch-deck.md`](./ressources/pitch-deck.md) : Comment pitcher un projet innovant (méthode startup), avec exemples.
-* [`narratif-amazon.md`](./ressources/narratif-amazon.md) : La méthode Amazon du "narratif" pour structurer la pensée.
-* [`voyage-du-heros.md`](./ressources/voyage-du-heros.md) : Utiliser la structure du Voyage du Héros pour le storytelling.
-* [`ted-guide.md`](./ressources/ted-guide.md) : Les secrets des présentations TED.
-* [`ted-talks.md`](./ressources/ted-talks.md) : Sélection de conférences TED inspirantes sur la communication et la data.
-* [`art-oratoire.md`](./ressources/art-oratoire.md) : Quelques bases d'art oratoire.
-* [`rhetorique.md`](./ressources/rhetorique.md) : Principes d'écriture et de rhétorique.
-
-### 📝 Comptes rendus des sessions
+### 📝 Comptes-rendus des sessions
 
 Retrouvez ici les notes et points clés abordés lors des sessions :
 
-* [`compte-rendu-sda7-22-10-2025.md`](./comptes-rendus/compte-rendu-sda7-22-10-2025.md) : Notes de la session du 22 Octobre 2025 (SDA7).
+* [Notes de la session du 22 Octobre 2025 (SDA7)](./comptes-rendus/compte-rendu-sda7-22-10-2025.md)
 * *(D'autres comptes rendus seront ajoutés ici après chaque session)*.
+
+### 🛠️ Boîte à outils
+
+Ces fiches contiennent des checklists, plans types et méthodes directement applicables :
+
+* [Guide : Créer des présentations avec Gemini](./boite-a-outils/guide-gemini-canvas-presentations.md) : Explique comment utiliser un assistant Gemini pour générer des slides.
+* [Guide : Obtenir un feedback critique avec Gemini](./boite-a-outils/guide-gemini-critique-presentations.md) : Explique comment utiliser un assistant Gemini "prof sévère" pour améliorer vos présentations.
+    * *Vous pouvez aussi m'envoyer vos présentations pour feedback par email : adam.faik.perso+sda@gmail.com*
+* [**L'Aide-Mémoire Essentiel**](./boite-a-outils/aide-memoire.md) : **LA checklist** des bonnes pratiques à garder sous la main.
+* [Suggestion de plan type (soutenance SDA)](./boite-a-outils/plan-type.md) : Plan détaillé pour une soutenance de projet.
+* [Le processus de création (workflow)](./boite-a-outils/processus.md) : Le workflow étape par étape (Narratif ➡️ TOM ➡️ Plan ➡️ Slides).
+* [Exemples de prompts pour Gemini/IA](./boite-a-outils/prompts.md) : Des prompts prêts à l'emploi pour vous assister à chaque étape.
+* [Recueil de liens utiles](./boite-a-outils/liens-utiles.md) : Outils, ressources visuelles et inspirations.
+
+### 🧠 Pour aller plus loin
+
+Explorez ces ressources pour approfondir certains aspects théoriques ou trouver de l'inspiration :
+
+* [Guide d'adaptation culturelle](./ressources/culture-map.md) : Basé sur *The Culture Map*.
+* [Comment pitcher un projet innovant](./ressources/pitch-deck.md) : Structure et exemples de pitch decks.
+* [La méthode du narratif Amazon](./ressources/narratif-amazon.md) : Pour structurer la pensée par l'écrit.
+* [Le voyage du héros pour le storytelling](./ressources/voyage-du-heros.md) : Appliquer une structure narrative classique.
+* [Les secrets des présentations TED](./ressources/ted-guide.md) : Analyse des techniques TED.
+* [Conférences TED inspirantes](./ressources/ted-talks.md) : Sélection de vidéos.
+* [Bases d'art oratoire](./ressources/art-oratoire.md) : Quelques fondamentaux.
+* [Principes d'écriture et de rhétorique](./ressources/rhetorique.md) : Un focus sur le lecteur expert.
 
 ---
 
 ## 🧑‍🏫 Pour le formateur
 
-* **Notes détaillées et déroulé :** [`guide-formateur.md`](./kit-formateur/guide-formateur.md) (Ce fichier contient le timing précis, les animations, les points d'attention spécifiques pour l'instructeur).
+* [Guide d'Animation de la Session 1](./kit-formateur/guide-formateur.md) : Notes détaillées, timing et points d'attention.
 
 ---
 

@@ -34,8 +34,8 @@ Ceci est un aide-mémoire des concepts clés de cette session. Utilisez-le comme
         * **M**essage (Ce que l'audience doit retenir)
 * **Étape 3 : Le plan (adapté à l'audience).**
     * Demandez-vous : "Pour qui est-ce que je présente ?"
-    * **Pour un prof (Soutenance) :** Votre plan DOIT refléter sa grille d'évaluation (ex: "1. MLflow", "2. AWS", "3. CI/CD").
-    * **Pour un CEO (Business) :** Votre plan DOIT commencer par le ROI et les coûts.
+    * **Pour un prof (soutenance) :** Votre plan DOIT refléter sa grille d'évaluation (ex: "1. MLflow", "2. AWS", "3. CI/CD").
+    * **Pour un CEO (business) :** Votre plan DOIT commencer par le ROI et les coûts.
 
 ## 4. Le jour J (prise de parole)
 
@@ -44,16 +44,16 @@ Ceci est un aide-mémoire des concepts clés de cette session. Utilisez-le comme
     * Si le prof vous dit "montrez-moi le code", vous devez être capable de lâcher les slides et de raconter votre histoire.
 * **Soyez Présent (physiquement ou virtuellement) :**
     * **En présentiel : Le "RDV".**
-        * **R**egard (Fixez votre audience, balayez la salle)
-        * **D**os (Tenez-vous droit, ancrez-vous)
-        * **V**oix (Projetez, articulez, variez le rythme)
+        * **R**egard : Fixez votre audience, balayez la salle.
+        * **D**os : Tenez-vous droit, ancrez-vous
+        * **V**oix : Projetez, articulez, variez le rythme.
     * **À distance (visioconférence) :**
-        * **Caméra activée** (essentiel pour créer du lien).
-        * **Arrière-plan soigné** (neutre, flouté ou fond virtuel professionnel).
-        * **Tenue correcte** (au moins le haut du corps visible).
-        * **Regardez la caméra** (pas votre écran ou vos notes) pour simuler le contact visuel.
-        * **Micro vérifié** (un casque-micro est idéal pour éviter les bruits ambiants).
-        * **Notifications désactivées** (coupez Slack, emails, etc.).
+        * **Caméra activée** : essentiel pour créer du lien.
+        * **Arrière-plan soigné** : neutre, flouté ou fond virtuel professionnel.
+        * **Tenue correcte** : au moins le haut du corps visible.
+        * **Regardez la caméra** : pas votre écran ou vos notes pour simuler le contact visuel.
+        * **Micro vérifié** : un casque-micro est idéal pour éviter les bruits ambiants.
+        * **Notifications désactivées** : coupez Slack, emails, etc.
 * **Gestion de la démo :**
     * Préparez toujours un **backup** (screenshots ou une **vidéo** de votre application) au cas où "l'effet démo" frappe.
 * **Gestion des Q&A (questions/réponses) :**
