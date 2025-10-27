@@ -1,5 +1,7 @@
 # Méthodologie de préparation oratoire (le processus TOM)
 
+[Voir le tutoriel](https://www.youtube.com/watch?v=y91Z4hMqMBQ&list=PLAO2ui_9t-UQiTCLs2yiQO2m9_oq-ItWQ&index=7)
+
 Ce document résume une méthodologie de préparation d'exposé issue de concepts d'art oratoire. Elle est complémentaire à l'approche "Narratif" d'Amazon et suit la même philosophie : un bon orateur ne peut compenser un déficit de réflexion en amont.
 
 Le prérequis est la connaissance préalable du sujet. À partir de là, le processus (visualisé comme un sablier) suit 5 étapes clés.

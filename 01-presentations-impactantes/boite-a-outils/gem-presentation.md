@@ -1,5 +1,7 @@
 # Guide : Créer des présentations HTML avec l'assistant Gemini
 
+[Voir le tutoriel](https://www.youtube.com/watch?v=3vT4mwJcYio&list=PLAO2ui_9t-UQiTCLs2yiQO2m9_oq-ItWQ&index=5)
+
 Cet assistant Gem est un outil puissant pour générer rapidement des présentations au format HTML à partir de vos idées, plans ou documents existants.
 
 ---
@@ -8,7 +10,7 @@ Cet assistant Gem est un outil puissant pour générer rapidement des présentat
 
 1.  **Accédez à l'assistant** via ce lien : [📺 Document to HTML Presentation Converter](https://gemini.google.com/gem/1ceG85dtOVdgsvqecXnKT3CS0zX9ZaHzU?usp=sharing)
 2.  **Sélectionnez l'outil "Canvas"** : Assurez-vous que l'extension ou l'outil "Canvas" (ou un nom similaire lié à la génération visuelle/structurée) est bien activé dans l'interface Gemini.
-3.  **Choisissez le Modèle 2.5 Pro** : Vérifiez que vous utilisez bien la version "2.5 Pro" du modèle pour bénéficier des capacités de génération structurée.
+3.  **Choisissez le modèle 2.5 Pro** : Vérifiez que vous utilisez bien la version "2.5 Pro" du modèle pour bénéficier des capacités de génération structurée.
 
 ---
 

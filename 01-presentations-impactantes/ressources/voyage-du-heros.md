@@ -1,5 +1,7 @@
 # Storytelling : La structure du "voyage du héros"
 
+[Voir une vidéo](https://www.youtube.com/watch?v=Hhk4N9A0oCA&list=PLAO2ui_9t-UQiTCLs2yiQO2m9_oq-ItWQ&index=13)
+
 L'une des structures narratives les plus puissantes est celle du "Voyage du Héros" (ou "mono-mythe"), popularisée par Joseph Campbell. Il a étudié les mythes du monde entier et a découvert qu'ils suivaient tous un schéma universel.
 
 Cette structure est la formule secrète derrière d'innombrables histoires à succès, de *Star Wars* à *Harry Potter* en passant par *Katniss Everdeen (Hunger Games)*.

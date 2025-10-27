@@ -1,13 +1,16 @@
 # Compte-rendu : Soft skills session 1 - Créer des présentations impactantes
 
 **Promotion :** SDA 7
+
 **Date :** 22 octobre 2025
+
+**Revoir la session :** [Lien de l'enregistrement](https://pantheonsorbonne.zoom.us/rec/share/hG6pET3l8tUo3v9iMYyAXu36n93C5HhpzP49WfXP5iO86swVCvQ6UAEgAYE6yTM.l4jNge18Vs9u5YGt)
 
 ---
 
 ## Introduction et objectifs du cours
 
-### 1. Le Contexte par Dafnis
+### 1. Le contexte par Dafnis
 
 La session a débuté par une introduction de Dafnis, expliquant la nécessité de ce nouveau cours.
 
@@ -15,7 +18,7 @@ La session a débuté par une introduction de Dafnis, expliquant la nécessité 
 * **L'objectif :** Ce module de 4 cours vise à vous donner les "soft skills" nécessaires pour réaliser des présentations impactantes, gérer le travail en groupe (notamment en ML et IA) et structurer vos projets (Agile, Scrum).
 * **L'importance :** Une présentation qui n'est pas à la hauteur est considérée comme un travail non fait, même si le code est excellent.
 
-### 2. Le Problème par Adam
+### 2. Le problème par Adam
 
 * **Le problème :** De nombreux data scientists, même très avancés, ont du mal à communiquer leurs idées en entreprise.
 * **La clé :** Discuter avec un expert technique est différent de discuter avec un preneur de décision.
@@ -60,7 +63,7 @@ Votre plan (l'agenda) ne doit pas refléter *votre* logique de travail, mais **l
 * **Diagrammes et schémas :**
     * **Fait main :** Un schéma fait main et photographié est très positif, il montre votre réflexion.
     * **Outils pro :** [Draw.io](https://app.diagrams.net/) est un standard en entreprise pour les diagrammes d'architecture.
-    * **Outils IA :** [Napkin](https://napkin.io/) transforme rapidement du texte en schéma visuel.
+    * **Outils IA :** [Napkin.ai](https://napkin.ai/) transforme rapidement du texte en schéma visuel.
 
 ### 4. Bonnes pratiques pour les captures d'écran (code)
 
@@ -72,7 +75,7 @@ Votre plan (l'agenda) ne doit pas refléter *votre* logique de travail, mais **l
 
 ### 5. Outils d'IA (LLM) pour la création
 
-* **[Gamma](https://gamma.app/) :**
+* **[Gamma.app](https://gamma.app/) :**
     * Peut générer une présentation complète à partir d'un simple *prompt* ou d'un texte.
     * **Attention :** C'est rapide, mais l'IA peut "halluciner" ou partir dans une direction non souhaitée.
     * **Meilleure utilisation :** Donnez-lui un plan textuel précis (ex: "Slide 1 : Titre", "Slide 2 : Problème", etc.) qu'il se contente de mettre en forme.
@@ -215,11 +218,11 @@ Nous avons analysé deux présentations réelles.
 
 * **Articles, essais et vidéos :**
     * **[La puissance des narratifs écrits d'Amazon](https://www.sachinrekhi.com/colin-bryar-working-backwards)** par Sachin Rekhi (sur le processus "Working Backwards").
-    * **[Outils de Coaching – Le Narratif](https://www.svpg.com/coaching-tools-the-narrative/)** par Marty Cagan (pourquoi écrire avant de slider).
+    * **[Outils de coaching - Le narratif](https://www.svpg.com/coaching-tools-the-narrative/)** par Marty Cagan (pourquoi écrire avant de slider).
     * **[Comment convaincre les investisseurs](https://www.paulgraham.com/convince.html)** par Paul Graham.
     * **[Rendre votre pitch mémorable grâce au storytelling](https://review.firstround.com/tell-stories-like-this-to-take-your-fundraising-pitch-from-mediocre-to-memorable/)** par First Round Review.
-    * **[Qu'est-ce qui fait un héros ?](https://youtu.be/Hhk4N9A0oCA?si=BMb5UvgZ458AoeoG)** par TED-Ed (sur le "Voyage du Héros").
-    * **[Comment écrire un Pitch Deck de startup percutant ?](https://youtu.be/VapOhmvC8jk?si=Bcgl4Vvjs_9MnnLd)** par Slidebean.
+    * **[Qu'est-ce qui fait un héros ?](https://youtu.be/Hhk4N9A0oCA?si=BMb5UvgZ458AoeoG)** par TED-Ed (sur le "voyage du héros").
+    * **[Comment écrire un pitch deck de startup percutant ?](https://youtu.be/VapOhmvC8jk?si=Bcgl4Vvjs_9MnnLd)** par Slidebean.
 
 * **Conférences à voir (modèles de prise de parole) :**
     * **[Les écoles tuent-elles la créativité ?](https://youtu.be/iG9CE55wbtY?si=BTNKGw_NvNEDZpsf)** par Sir Ken Robinson.

@@ -1,6 +1,6 @@
 # 🚀 Du technique au stratégique
 
-**Les "soft skills" essentiels pour le data scientist**
+**Les soft skills essentiels pour le data scientist**
 
 Bienvenue !
 
@@ -22,7 +22,7 @@ Voici un aperçu des 4 sessions prévues, avec leur statut actuel :
 
 ---
 
-### (📢 Session 1 : Créer des présentations impactantes)[./01-presentations-impactantes/README.md)]
+### [📢 Session 1 : Créer des présentations impactantes](./01-presentations-impactantes/README.md)
 * **Statut :** ✅ Disponible
 * **Objectif :** Apprendre à communiquer vos résultats techniques (analyses, modèles ML/IA) de manière claire et convaincante à des publics variés (techniques ou non).
 * **Ce que nous avons vu :**

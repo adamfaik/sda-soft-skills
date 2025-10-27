@@ -1,5 +1,7 @@
 # La leçon d'Amazon : Pourquoi le narratif bat le PowerPoint
 
+[Voir le tutoriel](https://www.youtube.com/watch?v=n517ZEpRN4s&list=PLAO2ui_9t-UQiTCLs2yiQO2m9_oq-ItWQ&index=10)
+
 Ce document résume la célèbre culture "narrative" d'Amazon, qui bannit les présentations par slides (comme PowerPoint) au profit de mémos écrits. C'est un exemple fondamental qui soutient l'étape 1 du processus de création : **commencer par un narratif force la clarté**.
 
 ---
@@ -19,7 +21,7 @@ Selon Amazon, le format même des présentations par slides pose plusieurs probl
 * **Il priorise le charisme sur le fond :** Le succès d'une idée dépend trop du talent d'orateur du présentateur, et non de la qualité intrinsèque de l'idée.
 * **Il transfère le fardeau à l'audience :** Une présentation est "facile pour l'auteur" (qui n'a pas besoin de connecter les idées) mais "difficile pour l'audience" (qui doit déchiffrer des points vagues).
 
-## 3. La Solution : Le "Narratif de 6 Pages"
+## 3. La solution : Le "narratif de 6 Pages"
 
 La solution d'Amazon est de remplacer les slides par un mémo narratif de six pages, lu par tous au début de la réunion.
 
@@ -75,8 +77,8 @@ L'approche d'Amazon démontre que **le processus d'écriture n'est pas l'enregis
 Voici quelques articles et ressources pour explorer plus en détail la culture du narratif d'Amazon :
 
 * **[The Power of Amazon's Written Narratives](https://www.sachinrekhi.com/colin-bryar-working-backwards)** - Une analyse du processus "Working Backwards" et de la méthode PR/FAQ.
-* **[An insider look at Amazon's culture and processes](https://www.aboutamazon.com/news/workplace/an-insider-look-at-amazons-culture-and-processes)** - Une source officielle d'Amazon expliquant leur culture, y compris le PR/FAQ.
+* **[An Insider Look at Amazon's Culture and Processes](https://www.aboutamazon.com/news/workplace/an-insider-look-at-amazons-culture-and-processes)** - Une source officielle d'Amazon expliquant leur culture, y compris le PR/FAQ.
 * **[Startup Advice: How to Write a Narrative](https://aws.amazon.com/blogs/startups/startup-advice-how-to-write-a-narrative)** - Conseils pratiques du blog AWS Startups pour appliquer le processus narratif.
 * **[Amazon Six Pager Template](https://www.sixpagermemo.com/blog/amazon-six-pager-template)** - Un blog dédié au concept, proposant un template détaillé du "6-pager".
-* **[Jeff Bezos on Writing Memos at Amazon (Vidéo)](https://www.youtube.com/watch?v=NE8DX8_Xg4E)** - Un court extrait où Jeff Bezos explique lui-même la logique derrière le mémo de 6 pages.
+* **[Jeff Bezos on Writing Memos at Amazon (vidéo)](https://www.youtube.com/watch?v=NE8DX8_Xg4E)** - Un court extrait où Jeff Bezos explique lui-même la logique derrière le mémo de 6 pages.
 * **[Don't Try This At Home: Why Amazon's Culture Isn't Right For Your Business](https://www.forbes.com/sites/chrismyers/2015/08/16/dont-try-this-at-home-why-amazons-culture-isnt-right-for-your-business/)** - Une analyse critique de Forbes expliquant pourquoi cette culture n'est pas universellement transférable.

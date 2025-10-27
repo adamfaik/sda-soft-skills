@@ -1,12 +1,14 @@
 # Pitcher son projet innovant : La méthode startup
 
+[Voir le tutoriel](https://www.youtube.com/watch?v=bi_YLSS0EBs&list=PLAO2ui_9t-UQiTCLs2yiQO2m9_oq-ItWQ&index=9)
+
 Présenter un projet innovant à des exécutifs ou des sponsors internes est un exercice similaire au pitch d'une startup devant des investisseurs. C'est l'outil qui rend la valeur de votre travail visible et vous permet de passer à l'étape suivante.
 
 Ce guide reprend les concepts clés pour assurer le succès de votre pitch.
 
 ---
 
-## 1. Être Préparé à travailler durement
+## 1. Être préparé à travailler durement
 
 Le pitch n'est pas la dernière étape, c'est l'opportunité de **clarifier votre propre pensée** et d'aligner votre équipe sur une vision singulière.
 
@@ -40,15 +42,15 @@ La structure est cruciale car elle répond aux questions des investisseurs/exéc
 
 | Slide N° | Concept | Objectif / questions adressées |
 | :--- | :--- | :--- |
-| **1-2** | **Titre et Résumé** | Nom du projet, un slogan accrocheur, votre vision. **(Le Fil Conducteur)** |
+| **1-2** | **Titre et résumé** | Nom du projet, un slogan accrocheur, votre vision. **(Le Fil Conducteur)** |
 | **3** | **Problème** | Quel est le besoin non satisfait ou la douleur du client ? (Doit être clair et concret). |
 | **4** | **Solution** | Comment résolvez-vous le problème ? (Simple et concis, ne pas surcharger). |
-| **5** | **Le Produit / La Démo** | Montrez plutôt que de raconter. (Utiliser un *screenshot* ou une *vidéo* courte). |
-| **6** | **Le Marché** | Qui est le client ? (Pour les projets internes : quel département, quel *pain point*). |
-| **7** | **Modèle Économique** | Comment créez-vous de la valeur ? (Pour les projets Data : Quel est le ROI/la valeur business des prédictions). |
+| **5** | **Le produit / La démo** | Montrez plutôt que de raconter. (Utiliser un *screenshot* ou une *vidéo* courte). |
+| **6** | **Le marché** | Qui est le client ? (Pour les projets internes : quel département, quel *pain point*). |
+| **7** | **Modèle économique** | Comment créez-vous de la valeur ? (Pour les projets Data : Quel est le ROI/la valeur business des prédictions). |
 | **8** | **Compétition** | Qui fait quoi ? (montrez votre avantage stratégique, ce qui vous rend unique). |
-| **9** | **L'Équipe** | Pourquoi êtes-vous la bonne équipe pour le faire ? (Crédibilité et Expérience). |
-| **10** | **Le Plan / Les Ressources** | Prochaines étapes et **ce dont vous avez besoin** (l'Appel à l'Action : Argent, temps, équipe, etc.). |
+| **9** | **L'équipe** | Pourquoi êtes-vous la bonne équipe pour le faire ? (Crédibilité et Expérience). |
+| **10** | **Le plan / Les ressources** | Prochaines étapes et **ce dont vous avez besoin** (l'Appel à l'Action : Argent, temps, équipe, etc.). |
 
 ## 5. Ressources pour l'inspiration
 

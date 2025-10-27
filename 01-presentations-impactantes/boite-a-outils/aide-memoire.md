@@ -1,5 +1,7 @@
 # Aide-mémoire : Bonnes pratiques de présentation
 
+[Voir le tutoriel](https://www.youtube.com/watch?v=XXcGwJ38ueE&list=PLAO2ui_9t-UQiTCLs2yiQO2m9_oq-ItWQ&index=2)
+
 Ceci est un aide-mémoire des concepts clés de cette session. Utilisez-le comme une checklist avant de finaliser vos présentations.
 
 ---

@@ -1,5 +1,7 @@
 # La philosophie TED : Créer des présentations qui propagent des idées
 
+[Voir le tutoriel](https://www.youtube.com/watch?v=3ZfjagXNBCk&list=PLAO2ui_9t-UQiTCLs2yiQO2m9_oq-ItWQ&index=11)
+
 Ce document résume les principes fondamentaux du livre [TED Talks: The Official TED Guide to Public Speaking](https://www.ted.com/read/ted-talks-the-official-ted-guide-to-public-speaking) de Chris Anderson. Il offre un cadre pour concevoir et livrer des présentations mémorables.
 
 ---
@@ -143,6 +145,6 @@ La philosophie TED démystifie la prise de parole. Ce n'est pas un don, c'est un
 * **Le livre :** [TED Talks: The Official TED Guide to Public Speaking](https://www.ted.com/read/ted-talks-the-official-ted-guide-to-public-speaking) par Chris Anderson.
 * **Conférence de Chris Anderson (résumé vidéo) :** [TED's secret to great public speaking](https://www.youtube.com/watch?v=-FOCpMAww28)
 * **Exemples de talks analysés dans le livre :**
-    * [Sir Ken Robinson - Do Schools Kill Creativity?](https://www.youtube.com/watch?v=iG9CE55wbtY) (Humour, Narration, pas de slides)
-    * [Brené Brown - The Power of Vulnerability](https://www.youtube.com/watch?v=iCvmsMzlF70) (Vulnérabilité, Connexion)
+    * [Sir Ken Robinson - Do Schools Kill Creativity?](https://www.youtube.com/watch?v=iG9CE55wbtY) (Humour, narration, pas de slides)
+    * [Brené Brown - The Power of Vulnerability](https://www.youtube.com/watch?v=iCvmsMzlF70) (Vulnérabilité, connexion)
 * **Autres ressources TED sur la prise de parole :** [Blog TED Ideas - How to give a great presentation](https://www.ted.com/playlists/574/how_to_make_a_great_presentation)

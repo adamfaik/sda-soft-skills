@@ -1,5 +1,7 @@
 # Suggestion de plan type pour une soutenance de projet
 
+[Voir le tutoriel](https://www.youtube.com/watch?v=rJSdiSoe-TA&list=PLAO2ui_9t-UQiTCLs2yiQO2m9_oq-ItWQ&index=3)
+
 **Important :** Ce plan est une **suggestion de structure** issue des bonnes pratiques professionnelles et académiques. La règle d'or est de **toujours s'adapter aux consignes spécifiques de votre professeur**. Profitez des sessions de suivi pour poser des questions sur les attentes exactes du professeur.
 
 La soutenance de projet est la preuve que votre équipe est capable de transformer un problème business en une solution technique fonctionnelle, en maîtrisant les étapes de la Data Science, du Cloud, du Machine Learning, etc.
@@ -27,7 +29,7 @@ Le plan typique doit répondre aux questions : Quel est le problème ? Comment l
 | **S2** | **"Le pitch" / Problème business** | Accrocher immédiatement le jury. Énoncer la douleur. | **Le problème** (sous forme d'un fait marquant, un chiffre). La perte de temps/d'argent actuelle. Le **fil conducteur** du projet. |
 | **S3** | **Solution et objectifs (TOM)** | Présenter la vision et le livrable. | **L'objectif métier** (Comment le projet résout le problème). **L'objectif technique** (Ce que vous avez réussi à faire/produire : un API, un dashboard, un modèle en production). |
 
-### B. Phase de démarche (Data et technique : 5-6 Slides)
+### B. Phase de démarche (Data et technique : 5-6 slides)
 
 C'est là que vous construisez votre crédibilité technique.
 
@@ -66,7 +68,7 @@ L'audience veut voir la preuve que ça marche.
 * **Rôles clairs :** Définissez qui présente quelle section (Data, Technique, Résultats). Chaque orateur doit avoir un temps de parole bien délimité.
 * **Les intercalaires de transition :** Utilisez les slides de transition (S4) pour marquer le changement d'orateur et de section, assurant une transition fluide.
 
-### 2. Le kit de survie (annexes)
+### 2. Le kit de survie (Annexes)
 
 Préparez des slides d'annexes pour la phase de questions/réponses :
 
@@ -74,7 +76,7 @@ Préparez des slides d'annexes pour la phase de questions/réponses :
 * **Graphiques non-montrés :** Graphiques d'évaluation des performances (Courbes ROC, etc.) ou d'autres visualisations de l'EDA.
 * **FAQ :** Anticipez les 3 questions les plus probables du professeur (souvent sur les limites, les hypothèses, ou la justification technique).
 
-### 3. La Gestion du temps
+### 3. La gestion du temps
 
 * **Timing strict :** Si vous avez 15 minutes, visez 13 minutes de parole pour vous laisser une marge.
 * **Entraînement :** Répétez le *timing* de la présentation complète, transition d'orateur incluse, au moins deux fois avant le jour J.

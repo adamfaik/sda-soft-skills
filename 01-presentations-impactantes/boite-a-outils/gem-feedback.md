@@ -1,5 +1,7 @@
 # Guide : Obtenir un feedback critique sur vos présentations avec Gemini
 
+[Voir le tutoriel](https://www.youtube.com/watch?v=JtnxD9Odp10&list=PLAO2ui_9t-UQiTCLs2yiQO2m9_oq-ItWQ&index=6)
+
 Cet assistant Gemini est spécifiquement conçu pour vous fournir un **retour très direct et sans concession** sur vos présentations (slides, plan, script...), afin d'identifier rapidement les points faibles et les axes d'amélioration.
 
 ---

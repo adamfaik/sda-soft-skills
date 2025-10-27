@@ -1,10 +1,12 @@
 # Prompts pour créer vos présentations de projet
 
+[Voir le tutoriel](https://www.youtube.com/watch?v=YKF3nWJx8Iw&list=PLAO2ui_9t-UQiTCLs2yiQO2m9_oq-ItWQ&index=4)
+
 Ce guide rassemble des prompts-clés à utiliser avec des outils comme Gemini pour vous assister à chaque étape de la création de votre présentation, de la page blanche au feedback final.
 
 ---
 
-## Étape 1 : Le "Narratif" (Commencer et Clarifier)
+## Étape 1 : Le "Narratif" (commencer et clarifier)
 
 *Avant d'ouvrir PowerPoint, clarifiez votre pensée.*
 

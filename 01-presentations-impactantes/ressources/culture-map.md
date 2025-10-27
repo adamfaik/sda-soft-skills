@@ -1,5 +1,7 @@
 # Guide d'adaptation culturelle : Présenter à un public français vs. anglo-saxon
 
+[Voir le tutoriel](https://www.youtube.com/watch?v=_j9L7_tGWmc&list=PLAO2ui_9t-UQiTCLs2yiQO2m9_oq-ItWQ&index=8)
+
 Ce guide s'appuie sur les concepts du livre [The Culture Map](https://erinmeyer.com/books/the-culture-map/) d'Erin Meyer pour vous aider à adapter stratégiquement vos présentations.
 
 ---

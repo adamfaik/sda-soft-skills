@@ -1,10 +1,12 @@
 # Le Processus de création : De la page blanche à la présentation
 
+[Voir le tutoriel](https://www.youtube.com/watch?v=p2K0tx4vkkE&list=PLAO2ui_9t-UQiTCLs2yiQO2m9_oq-ItWQ&index=2)
+
 Ce document décrit le workflow complet pour créer une présentation impactante, en se concentrant sur la clarté de la pensée *avant* le design de l'outil.
 
 ---
 
-## La Règle d'or : Ne commencez jamais par PowerPoint !
+## La règle d'or : Ne commencez jamais par PowerPoint !
 
 La règle la plus importante est de **ne pas commencer par un PowerPoint** (ou Google Slides).
 
